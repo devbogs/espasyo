@@ -1363,8 +1363,8 @@ section {
 
 .create button {
 	border-radius: 20px;
-	border: 1px solid #FF4B2B;
-	background-color: #FF4B2B;
+	border: 1px solid #f2cb05;
+	background-color: #f2cb05;
 	color: #FFFFFF;
 	font-size: 12px;
 	font-weight: bold;
@@ -1477,9 +1477,9 @@ section {
 }
 
 .create .overlay {
-	background: #FF416C;
-	background: -webkit-linear-gradient(to right, #FF4B2B, #FF416C);
-	background: linear-gradient(to right, #FF4B2B, #FF416C);
+	background: #023859;
+	background: -webkit-linear-gradient(to right, #023859, #023859);
+	background: linear-gradient(to right, #023859, #023859);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: 0 0;
@@ -1560,7 +1560,7 @@ section {
 }
 
 .create footer i {
-    color: red;
+    color: #023859;
 }
 
 .create footer a {
